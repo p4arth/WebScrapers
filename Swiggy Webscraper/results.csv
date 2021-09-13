@@ -1,0 +1,225 @@
+,Restaurant_Name,Restaurant_Category,Rating,price_for_2
+0,Blue Water Grille,"Chinese, North Indian, Continental, Beverages, Seafood",4.1,₹600 FOR TWO
+1,KFC,"American, Fast Food, Snacks",4.3,₹400 FOR TWO
+2,Biryani By Kilo,"Biryani, Mughlai, Kebabs, North Indian, Hyderabadi, Lucknowi, Andhra, South Indi...",4.3,₹700 FOR TWO
+3,Punjab Grill,"North Indian, Indian, Biryani, Punjabi, Kebabs, Mughlai, Desserts",4.0,₹900 FOR TWO
+4,Bikanervala,"North Indian, Snacks, Chaat, Sweets",4.1,₹300 FOR TWO
+5,Biryani Blues,"Biryani, Hyderabadi, Lucknowi, Kebabs, Desserts, Beverages",4.3,₹400 FOR TWO
+6,Gulati (Pandara Road),"North Indian, Biryani, Mughlai, Hyderabadi, Kebabs, Desserts, Beverages",4.4,₹1000 FOR TWO
+7,Saravana Bhavan,South Indian,4.2,₹550 FOR TWO
+8,UBQ by Barbeque Nation,"North Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",4.0,₹300 FOR TWO
+9,Great indian khichdi,"Indian, Home Food, Healthy Food, Snacks",4.1,₹200 FOR TWO
+10,Taco Bell,Mexican,4.0,₹400 FOR TWO
+11,Get-A-Whey Healthy Ice Creams,"Desserts, Ice Cream",4.4,₹250 FOR TWO
+12,Daryaganj - By the inventors of Butter Chicken and Dal Makhani,"Indian, Mughlai, North Indian, Kebabs, Beverages, Desserts",4.3,₹1500 FOR TWO
+13,Pizza Hut,"Fast Food, Pizzas",4.3,₹350 FOR TWO
+14,Cake creatorz,"Bakery, Beverages, Pizzas, Italian, Continental, Fast Food",4.3,₹300 FOR TWO
+15,Flavours of Punjab,"North Indian, Chinese, Mughlai",4.4,₹300 FOR TWO
+16,Sagar Ratna,"North Indian, Chinese, South Indian",4.6,₹600 FOR TWO
+17,WONDER'S PIZZA,"Bakery, Beverages, Fast Food",4.2,₹300 FOR TWO
+18,KHANSAAMA FOOD,Mughlai,4.1,₹200 FOR TWO
+19,Pind Balluchi - Janpath,"North Indian, Mughlai",4.2,₹400 FOR TWO
+20,Theobroma,"Desserts, Bakery, Beverages",4.0,₹800 FOR TWO
+21,Handi Chhadeyan Di,"North Indian, Chinese, Mughlai",4.1,₹450 FOR TWO
+22,Burger King,"American, Fast Food",4.1,₹350 FOR TWO
+23,Starbucks Coffee,"Beverages, Ice Cream",4.1,₹400 FOR TWO
+24,Kwality Walls,"Ice Cream, Desserts",4.3,₹300 FOR TWO
+25,Cafe Coffee Day,"Beverages, Snacks, Desserts",4.4,₹300 FOR TWO
+26,Slice,"Pizzas, Continental, Italian, Beverages",4.1,₹400 FOR TWO
+27,United Coffee House,"Indian, Asian, European, Street Food",4.1,₹2500 FOR TWO
+28,McDonald's,"American, Fast Food",4.4,₹400 FOR TWO
+29,Veg Gulati (Pandara Road),"North Indian, Mughlai, Punjabi, Snacks, Desserts",4.1,₹1200 FOR TWO
+30,Nando's,"Fast Food, Portuguese, African, Grill, Salads",4.6,₹600 FOR TWO
+31,Brown Sugar,"Continental, Fast Food",4.0,₹600 FOR TWO
+32,Desi Vibes,"Mughlai, North Indian",4.5,₹800 FOR TWO
+33,DS Dosa Factory,"South Indian, Chinese, North Indian, Salads, Beverages, Desserts, Ice Cream",4.1,₹200 FOR TWO
+34,Rajdhani,"Rajasthani, Thalis, Indian",4.4,₹1050 FOR TWO
+35,Barbeque Nation,"North Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",4.3,₹600 FOR TWO
+36,Sandoz ,"Indian, Chinese",4.1,₹350 FOR TWO
+37,Haldiram's,North Indian,4.4,₹300 FOR TWO
+38,I C Corner,Chinese,4.3,₹300 FOR TWO
+39,Yamus Panchayat,Paan,4.1,₹200 FOR TWO
+40,Khan Chacha,"Biryani, North Indian, Mughlai",4.3,₹850 FOR TWO
+41,Q'BA,"North Indian, Chinese, Fast Food, Indian, Tandoor, Biryani",4.3,₹1000 FOR TWO
+42,Havmor Ice cream,Ice Cream,4.1,₹300 FOR TWO
+43,New National Restaurant,"Indian, Tandoor, Fast Food",4.3,₹600 FOR TWO
+44,Chili's American Grill & Bar,"American, Salads, Mexican, Italian, Steakhouse",4.1,₹900 FOR TWO
+45,Chai Point,"Bakery, Cafe, Combo, Beverages, Maharashtrian, Snacks, Street Food, South Indian...",4.1,₹200 FOR TWO
+46,Farzi Cafe,"North Indian, Tandoor, Punjabi, Pizzas",4.3,₹600 FOR TWO
+47,Subway,"Fast Food, Salads, Snacks, Desserts, Beverages",4.0,₹350 FOR TWO
+48,Dunkin Donuts,"Desserts, Bakery, Beverages, Fast Food, Snacks",4.0,₹250 FOR TWO
+49,Southy,"South Indian, Snacks, Beverages",4.5,₹400 FOR TWO
+50,Gupta Foods,"North Indian, Chinese, South Indian",4.3,₹300 FOR TWO
+51,Burger Singh (Big Punjabi Burgers),"Snacks, Fast Food, Indian, American, Beverages, Desserts, Mughlai, North Indian,...",4.2,₹250 FOR TWO
+52,Hello G Sas Kitchen,"Biryani, Indian, Fast Food",4.3,₹250 FOR TWO
+53,Natural Ice Cream,Ice Cream,4.3,₹150 FOR TWO
+54,Mughlai Junction,"Mughlai, North Indian",4.3,₹600 FOR TWO
+55,Mamagoto,"Chinese, Asian, Pan-Asian, Thai, Oriental",4.1,₹900 FOR TWO
+56,Mist - The Park,"Italian, Pan-Asian, Chinese, Indian, Fast Food",4.1,₹1500 FOR TWO
+57,Padmanabham,"South Indian, North Indian, Mughlai, Chettinad, Coastal",4.3,₹300 FOR TWO
+58,Minar Restaurant,"North Indian, Indian, Punjabi, Mughlai, Tandoor",4.1,₹1200 FOR TWO
+59,Wat-A-Burger! - India ka Burger,"Fast Food, American, Indian, Snacks, Desserts, Beverages",4.0,₹200 FOR TWO
+60,Pink box,"Bakery, Desserts, Sweets",4.0,₹150 FOR TWO
+61,Chaayos Meri Wali Chai,"Bakery, Beverages, Cafe, Chaat, Desserts, Fast Food, Home Food, Italian, Maharas...",4.4,₹250 FOR TWO
+62,Lazeez on wheels,"Indian, Mughlai, Chinese",4.1,₹1200 FOR TWO
+63,Rajasthali,Rajasthani,4.0,₹300 FOR TWO
+64,Cremeborne,Desserts,4.0,₹250 FOR TWO
+65,Royal restaurant,North Indian,4.2,₹400 FOR TWO
+66,The Imperial Spice,"North Indian, Continental, Italian, Snacks",4.3,₹2000 FOR TWO
+67,Berco's,"Chinese, Thai, Asian, Beverages, Desserts, Oriental, Seafood, Pan-Asian",4.0,₹600 FOR TWO
+68,Bagundi Andhra Kitchen,"Andhra, Biryani, South Indian, Thalis, Seafood",4.4,₹800 FOR TWO
+69,Nirula's,"Desserts, Pizzas, Fast Food, American, Beverages, Italian",4.1,₹300 FOR TWO
+70,Fryeo,Fast Food,4.0,₹250 FOR TWO
+71,Tewari Bros Confectioners,"Street Food, North Indian, South Indian, Sweets",4.0,₹200 FOR TWO
+72,Nazeer Foods,"North Indian, Biryani, Mughlai, Snacks",4.2,₹400 FOR TWO
+73,Cream Stone,"Ice Cream, Desserts, Beverages",4.3,₹200 FOR TWO
+74,Made In Punjab,"North Indian, Tandoor, Punjabi",4.0,₹600 FOR TWO
+75,Bhape Da Hotel,North Indian,4.2,₹850 FOR TWO
+76,Lazeez Affaire,"Indian, Chinese, North Indian, Tandoor, Mughlai, Desserts",4.3,₹1300 FOR TWO
+77,Bistro 57,Beverages,4.2,₹300 FOR TWO
+78,Delhi Darbar Dhaba,"North Indian, Chinese",4.1,₹400 FOR TWO
+79,Gola Sizzlers,"Chinese, Indian, Seafood",4.1,₹700 FOR TWO
+80,Zaffran,North Indian,4.1,₹1700 FOR TWO
+81,Embassy,"North Indian, Continental",4.3,₹1400 FOR TWO
+82,Snug Cafe & Restaurant,"Indian, Chinese, Beverages",4.2,₹300 FOR TWO
+83,Tummyyard Cafe,"Continental, Indian",4.6,₹250 FOR TWO
+84,Bikkgane Biryani,"North Indian, Hyderabadi, Biryani, Andhra, South Indian, Mughlai",4.1,₹400 FOR TWO
+85,Hira Sweets,"North Indian, South Indian, Chinese, Fast Food, Sweets",4.1,₹600 FOR TWO
+86,Delhi Darbar,"North Indian, Chinese",4.1,₹200 FOR TWO
+87,Nizam's Kathi Kabab,"Fast Food, Mughlai, Kebabs",4.1,₹500 FOR TWO
+88,BurGrub,"American, Fast Food, Snacks, Beverages",4.3,₹350 FOR TWO
+89,WAGH BAKRI TEA LOUNGE,"Beverages, Fast Food",4.4,₹500 FOR TWO
+90,Rooh Burgers,"Fast Food, Beverages",4.1,₹200 FOR TWO
+91,Tamra - Shangri-La Eros New Delhi,"Indian, Continental, Pan-Asian, Desserts",4.1,₹2200 FOR TWO
+92,ORIENTAL GARDEN,"Chinese, Desserts, Fast Food",4.1,₹179 FOR TWO
+93,Maalgaadi by Dhaba Estd 1986 Delhi,"North Indian, Indian, Biryani, Punjabi, Kebabs, Grill, Mughlai, Desserts",4.8,₹900 FOR TWO
+94,Caffe Tonino,"Italian, Pizzas",4.1,₹1400 FOR TWO
+95,PVR Cafe,"Fast Food, American, Pizzas",4.1,₹400 FOR TWO
+96,Dhaba Estd 1986 Delhi,"Biryani, Hyderabadi, North Indian, Indian, Tandoor, Punjabi",4.3,₹900 FOR TWO
+97,Bijoli Grill,"North Indian, Chinese, Bengali",4.2,₹500 FOR TWO
+98,Ghoomar traditional thali restaurant,Indian,4.0,₹700 FOR TWO
+99,CHEF 2020,Chinese,4.0,₹300 FOR TWO
+100,Madras Coffee House,"South Indian, Fast Food, Beverages",4.0,₹750 FOR TWO
+101,FaYian,Chinese,4.1,₹600 FOR TWO
+102,Balaji Dhaba,North Indian,4.4,₹150 FOR TWO
+103,Shri Hari Vaishnav Dhaba,"North Indian, Thalis",,₹200 FOR TWO
+104,Naivedyam,South Indian,,₹300 FOR TWO
+105,Domino's Pizza,Pizzas,,₹400 FOR TWO
+106,Dayal Dhaba,North Indian,,₹200 FOR TWO
+107,CHAUBARA,"Continental, Italian",,₹250 FOR TWO
+108,Meenas,"Fast Food, Chinese, North Indian",,₹450 FOR TWO
+109,New Janta Dhaba,Indian,,₹300 FOR TWO
+110,Andhra Bhawan Canteen,"Street Food, Indian, Snacks",,₹400 FOR TWO
+111,Pehalwan Da Hotel,North Indian,,₹400 FOR TWO
+112,Vrinda vaishno dhaba,North Indian,,₹200 FOR TWO
+113,Capital Hotel,North Indian,,₹200 FOR TWO
+114,Behrouz Biryani - Royal & Safe,"Biryani, Mughlai, Lucknowi, Kebabs, Hyderabadi, North Indian, Persian, Desserts",,₹500 FOR TWO
+115,Kakku chicken corner,Chinese,,₹400 FOR TWO
+116,Creme N Crisp,"Desserts, Fast Food, Bakery",,₹400 FOR TWO
+117,Kuremals Kulfi,"Desserts, Ice Cream",,₹200 FOR TWO
+118,FOOD ME UP,"Beverages, North Indian, Chinese",,₹300 FOR TWO
+119,Biryani Badshah,"Hyderabadi, South Indian, North Indian, Biryani, Andhra, Mughlai",,₹350 FOR TWO
+120,The Hungerss,"Chinese, South Indian",,₹250 FOR TWO
+121,Baskin Robbins,"Desserts, Ice Cream",,₹300 FOR TWO
+122,Narula Bakery,Bakery,,₹300 FOR TWO
+123,Artinci - Indulge Guilt Free!,"Ice Cream, Healthy Food, Keto, Desserts, Snacks, Beverages, Bakery",,₹200 FOR TWO
+124,Cakes & More,"Bakery, Snacks",,₹300 FOR TWO
+125,Sachdeva's  Multi Cuisine Joint,"Chinese, Indian, Beverages, Italian",,₹149 FOR TWO
+126,Santosh Patisserie,Bakery,,₹299 FOR TWO
+127,Home plate,"Home Food, North Indian, Healthy Food, Thalis, Desserts, Indian, Punjabi",,₹160 FOR TWO
+128,EVEREST CAFE,"Fast Food, Pizzas, Chinese",,₹300 FOR TWO
+129,SONU CHAT HOUSE & RESTAURANT,Chaat,,₹200 FOR TWO
+130,Tadka 4986,"North Indian, Chinese, Italian, Fast Food",,₹500 FOR TWO
+131,SONU RESTURNT,"Indian, Chinese",,₹300 FOR TWO
+132,Sweet Truth,"Bakery, Desserts, Beverages",,₹200 FOR TWO
+133,Ovenstory Pizza,"Pizzas, Italian",,₹600 FOR TWO
+134,Yummy paratha,Indian,,₹100 FOR TWO
+135,Qureshi Kabab Corner (Old Delhi Original),"Indian, Snacks",,₹350 FOR TWO
+136,Leo's restaurant lounge,"Continental, Chinese, North Indian, Mughlai",,₹300 FOR TWO
+137,Swagat Dhaba,"South Indian, North Indian",,₹200 FOR TWO
+138,Flavours,"North Indian, Chinese, South Indian, Mughlai",,₹350 FOR TWO
+139,Magic Pot,"North Indian, Chinese, Italian",,₹400 FOR TWO
+140,Giani,Ice Cream,,₹300 FOR TWO
+141,Spice Of India,Fast Food,,₹250 FOR TWO
+142,Shawrma Xpress,Lebanese,,₹120 FOR TWO
+143,PUNJABI CHASKA,"Thalis, Indian, Fast Food, Punjabi",,₹200 FOR TWO
+144,EVEREST CAFE,"Fast Food, Pizzas, Chinese",,₹300 FOR TWO
+145,SONU CHAT HOUSE & RESTAURANT,Chaat,,₹200 FOR TWO
+146,Tadka 4986,"North Indian, Chinese, Italian, Fast Food",,₹500 FOR TWO
+147,SONU RESTURNT,"Indian, Chinese",,₹300 FOR TWO
+148,Sweet Truth,"Bakery, Desserts, Beverages",,₹200 FOR TWO
+149,Ovenstory Pizza,"Pizzas, Italian",,₹600 FOR TWO
+150,Yummy paratha,Indian,,₹100 FOR TWO
+151,Qureshi Kabab Corner (Old Delhi Original),"Indian, Snacks",,₹350 FOR TWO
+152,Leo's restaurant lounge,"Continental, Chinese, North Indian, Mughlai",,₹300 FOR TWO
+153,Swagat Dhaba,"South Indian, North Indian",,₹200 FOR TWO
+154,Flavours,"North Indian, Chinese, South Indian, Mughlai",,₹350 FOR TWO
+155,Magic Pot,"North Indian, Chinese, Italian",,₹400 FOR TWO
+156,Giani,Ice Cream,,₹300 FOR TWO
+157,Spice Of India,Fast Food,,₹250 FOR TWO
+158,Shawrma Xpress,Lebanese,,₹120 FOR TWO
+159,PUNJABI CHASKA,"Thalis, Indian, Fast Food, Punjabi",,₹200 FOR TWO
+160,THE MANSINGH KITCHEN,Indian,,₹350 FOR TWO
+161,Canteen central,"American, Pastas, Fast Food, Snacks, Desserts, Beverages, North Indian, Italian",,₹250 FOR TWO
+162,Zippy bowls,"Biryani, Chinese, Combo, Desserts, North Indian, Pan-Asian",,₹300 FOR TWO
+163,Firangi Bake,"Italian, Mexican, Pastas",,₹400 FOR TWO
+164,Costa Grillz,"Chinese, Fast Food",,₹400 FOR TWO
+165,New Madras Restaurant,Indian,,₹200 FOR TWO
+166,Shravan Meals by Lunchbox,"North Indian, Desserts, Biryani",,₹200 FOR TWO
+167,Meal studio,"North Indian, Indian, Combo, Desserts, Beverages, Home Food, Healthy Food, Thali...",,₹250 FOR TWO
+168,The Biryani Life,"Biryani, Hyderabadi, Lucknowi, North Indian, Mughlai, Combo, Desserts",,₹250 FOR TWO
+169,The Good Bowl,"North Indian, Biryani, Chinese, Asian, Pastas, Desserts",,₹400 FOR TWO
+170,LunchBox,"North Indian, Chinese, Desserts, Biryani",,₹200 FOR TWO
+171,binita,"Chinese, North Indian",,₹300 FOR TWO
+172,New Mikky restaurant,Indian,,₹800 FOR TWO
+173,FamousFoodCafe,"American, Italian, Fast Food",,₹200 FOR TWO
+174,Andhra Kodi Pulao,"Biryani, Indian, Kebabs, North Indian, Andhra, Mughlai",,₹350 FOR TWO
+175,Lazeez Kebab & Curries,"North Indian, Mughlai",,₹400 FOR TWO
+176,Chicken Inn,"Mughlai, Indian, Chinese",,₹600 FOR TWO
+177,HOTEL MAIDAH,"North Indian, Snacks, Kebabs",,₹400 FOR TWO
+178,Gourmet Ice Cream Cakes by Baskin Robbins,"Desserts, Ice Cream, Bakery",,₹150 FOR TWO
+179,Shakahari Restaurant (Chawri Bazaar),"North Indian, Indian",,₹300 FOR TWO
+180,Bismillah Kebab Point,North Indian,,₹150 FOR TWO
+181,Rustoms,Parsi,,₹850 FOR TWO
+182,Pindi,"Mughlai, North Indian, Chinese",,₹1200 FOR TWO
+183,REHMATULLAH HOTEL,"Indian, Mughlai, Biryani, Desserts",,₹100 FOR TWO
+184,JAWAHAR HOTEL,"Indian, Mughlai, Tandoor",,₹600 FOR TWO
+185,Ichiban,"Chinese, Thai, Japanese",,₹1500 FOR TWO
+186,Chor Bizarre,"Biryani, Mughlai, North Indian",,₹500 FOR TWO
+187,Havemore Restaurant ,"North Indian, Mughlai, Kebabs, Biryani, Beverages, Desserts",,₹1000 FOR TWO
+188,Giani's,"Ice Cream, Desserts, Beverages, Bakery",,₹200 FOR TWO
+189,Shree Jee Rasoi,"North Indian, Chinese",,₹250 FOR TWO
+190,Akash Deep,"North Indian, South Indian, Chinese",,₹250 FOR TWO
+191,Ganesh Restaurant,"North Indian, Mughlai, Tandoor",,₹400 FOR TWO
+192,Ganesh Restaurant,"North Indian, Mughlai, Tandoor",,₹400 FOR TWO
+193,Ebony Cafe,Indian,,₹400 FOR TWO
+194,AMD DAIRY,"Bakery, Desserts",,₹300 FOR TWO
+195,IFC PIZZATREAT,"Pizzas, Desserts",,₹300 FOR TWO
+196,ZAIQA CHICKEN CORNER,"Mughlai, Biryani, Barbecue",,₹300 FOR TWO
+197,Bhaja Govindam,"South Indian, North Indian",,₹600 FOR TWO
+198, High On Desserts ,"Desserts, Fast Food, Beverages, Ice Cream, Cafe, Sweets",,₹120 FOR TWO
+199,K.G.F Pizza Point,"Pizzas, Chinese, Snacks, Pastas",,₹199 FOR TWO
+200,Changezi Chicken (Daryaganj),"Indian, Mughlai",,₹400 FOR TWO
+201,Mehtas (Old Delhi Original),"Street Food, Desserts, Sweets",,₹150 FOR TWO
+202,Zaika (Daryaganj),"North Indian, Mughlai, Chinese",,₹600 FOR TWO
+203,Nayaab Kitchen Halaal,"Mughlai, Fast Food",,₹300 FOR TWO
+204,Suvidha Vegetarian (Old Delhi Original),Indian,,₹300 FOR TWO
+205,The Yellow Bowl,"Chinese, Snacks",,₹300 FOR TWO
+206,Southern Masala,South Indian,,₹600 FOR TWO
+207,Shudh Annapurna,"North Indian, South Indian, Chinese",,₹350 FOR TWO
+208,Arya Bhavan,South Indian,,₹400 FOR TWO
+209,Al Jawahar Restaurant (Jama Masjid),"Mughlai, North Indian",,₹400 FOR TWO
+210,Wrap & Roll,"Chinese, Fast Food",,₹400 FOR TWO
+211,The Burger Club,"Fast Food, American, Beverages, Desserts",,₹250 FOR TWO
+212,Cafexpress,"Bakery, Beverages, Ice Cream",,₹200 FOR TWO
+213,Flavour Of Southvala Pvt Ltd,"South Indian, Chinese",,₹300 FOR TWO
+214,Shawarma Kings,"Lebanese, Snacks",,₹200 FOR TWO
+215,Amma Mess,South Indian,,₹300 FOR TWO
+216,Nandlal Ka Dhaba,"North Indian, Mughlai",,₹250 FOR TWO
+217,Karim's,"Mughlai, North Indian",,₹650 FOR TWO
+218,chatpata chandni chowk,"Chinese, Tandoor, Beverages",,₹250 FOR TWO
+219,SUGANDH,Indian,,₹500 FOR TWO
+220,Kulcha Republic,Indian,,₹140 FOR TWO
+221,New Tera Hotel,North Indian,,₹150 FOR TWO
+222,Changezi Chicken,"Mughlai, North Indian",,₹500 FOR TWO
+223,Kings Kulfi,"Ice Cream, Desserts",,₹100 FOR TWO
